@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591556056 source:f:\fcai-hu\c exp\bookslibrary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
